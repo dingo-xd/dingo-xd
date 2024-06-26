@@ -1,2 +1,2 @@
 Hello, I'm Dingo.
-<img src="https://nationalzoo.com.au/wp-content/uploads/2017/03/dingo-featured-min.png">
+<img width="200" height="200" src="https://nationalzoo.com.au/wp-content/uploads/2017/03/dingo-featured-min.png">
