@@ -1,2 +1,3 @@
 Hello, I'm Dingo.
-<img width="200" height="200" src="https://nationalzoo.com.au/wp-content/uploads/2017/03/dingo-featured-min.png">
+My website: [dingo88.neocities.org](dingo88.neocities.org)
+My YouTube channel: [youtube.com/@dingo8888](youtube.com/@dingo8888)
